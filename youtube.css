@@ -10,9 +10,11 @@
     display:inline-block;
     margin-right :15px;
 }
-.description{
+.video_title{
     margin-top:0px;
     width:300px;
+    font-size:14px;
+    font-weight: bold;
 }
 .channel_picture{
     display:inline-block;
@@ -24,4 +26,7 @@
 .profile_picture{
     width:40px;
     border-radius:100px;
+}
+.thumbnail_row{
+    margin-bottom:12px;
 }
