@@ -1,0 +1,27 @@
+.search{
+    display:block;
+    margin-bottom:15px;
+}
+.channel1{
+    display:inline-block;
+    margin-right :15px;
+}
+.channel2{
+    display:inline-block;
+    margin-right :15px;
+}
+.description{
+    margin-top:0px;
+    width:300px;
+}
+.channel_picture{
+    display:inline-block;
+    vertical-align:top;
+}
+.channel_info{
+    display:inline-block;
+}
+.profile_picture{
+    width:40px;
+    border-radius:100px;
+}
