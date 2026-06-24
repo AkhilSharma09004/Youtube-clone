@@ -6,15 +6,12 @@
     display:inline-block;
     margin-right :15px;
 }
-.channel2{
-    display:inline-block;
-    margin-right :15px;
-}
 .video_title{
     margin-top:0px;
     width:300px;
     font-size:14px;
     font-weight: bold;
+    line-height: 20px;
 }
 .channel_picture{
     display:inline-block;
