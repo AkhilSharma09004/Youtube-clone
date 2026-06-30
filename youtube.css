@@ -3,13 +3,12 @@ p{
     margin-top:0px;
     margin-bottom:0px;
 }
+.thumbnail1{
+    width:100%;
+}
 .search{
     display:block;
     margin-bottom:15px;
-}
-.channel1{
-    display:inline-block;
-    margin-right :12px;
 }
 .video_title{
     margin-top:0px;
@@ -22,12 +21,6 @@ p{
 .channel_info_grid{
     display:grid;
     grid-template-columns: 50px 1fr;
-}
-.channel_picture{
-    background-color: grey;
-}
-.channel_info{
-    background-color: grey;
 }
 .profile_picture{
     width:40px;
@@ -42,4 +35,10 @@ p{
 }
 .author{
     margin-bottom:4px;
+}
+.video_grid{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 40px;
 }
